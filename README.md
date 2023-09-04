@@ -5,7 +5,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Egg&text=Welcome!)
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moobin0518&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moobin0518&show_icons=true&theme=tokyonight)
 
 
 <!--
