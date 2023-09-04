@@ -8,6 +8,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moobin0518&layout=compact&theme=tokyonight)
   #
   <img src="https://img.shields.io/badge/C Sharp-black?style=flat&logo=csharp&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=000000"/>
   
 </div>
 <!--
