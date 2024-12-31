@@ -20,7 +20,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moobin0518&show_icons=true&theme=synthwave">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moobin0518&layout=compact&theme=synthwave">
+
 <br>
 <br>
 <br>
@@ -31,3 +31,8 @@
 </div>
 <br>
 <br>
+
+##
+
+<a href="https://youtu.be/dQw4w9WgXcQ?si=GMjMAH5qIyld2DSW">
+      <img src="https://img.shields.io/badge/경고!%20누르지마시오!!-E34F26?style=flat-square&logoColor=white">
