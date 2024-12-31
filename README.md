@@ -32,15 +32,15 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moobin&show_icons=true&theme=synthwave">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moobin&layout=compact&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api?username=moobin0518&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moobin0518&layout=compact&theme=synthwave">
 <br>
 <br>
 <br>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moobin&theme=radical" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moobin&theme=radical&exclude={exclude}" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moobin&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moobin0518&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moobin0518&theme=radical&exclude={exclude}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moobin0518&theme=radical" />
 </div>
 <br>
 <br>
